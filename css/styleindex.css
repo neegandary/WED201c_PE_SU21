@@ -95,3 +95,13 @@ body {
   padding-top: 10px;
   padding-bottom: 5px;
 }
+
+@media only screen and (max-width: 425px) {
+  .service-img {
+    margin: 20px 0;
+  }
+
+  .red-title {
+    color: red;
+  }
+}

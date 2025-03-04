@@ -4,8 +4,10 @@ td:not(td:nth-child(2)) {
 
 input {
   padding: 10px;
+  width: 350px;
+  font-size: 15px;
 }
 
 button {
-  margin-left: 20px;
+  margin-left: 110px;
 }
